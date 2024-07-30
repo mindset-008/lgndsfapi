@@ -1,0 +1,18 @@
+{
+  "bot_certif": [
+    {
+      "BotName": "Your_bot_Name",
+      "bID": "Bot_ID",
+      "Given_Pass": "The_password_A_Developer_gave_you_to_use_the_bot_as_yours"
+    }
+  ],
+  "user_certif": [
+    {
+       "Username": "Your_Discord_Name",
+       "uID": "Your_Discrd_ID",
+       "Given_Developer": "The_Developer_who_gave_you_access"
+    }
+  ],
+  "Made_By_KXR-Project": [
+  ]
+}
