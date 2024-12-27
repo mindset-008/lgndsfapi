@@ -1,17 +1,22 @@
 #  lgdnsfapi
 ----
 
-A farming API for KXR's Farm Bot on Discord
+A farming API for developers and people to use.
 ---
 
-## credits
-
-| User    | Role             | Discord Server                              |
-|---------|------------------|---------------------------------------------|
-| Mindset | Developer        | [discord.gg/kxr](https://discord.gg/kxr)    |
-| KXR     | Owner/Developer  | [discord.gg/kxr](https://discord.gg/kxr)    |
-| Rupes   | Developer        | [discord.com/invite/G2g39xkQY9](https://discord.com/invite/G2g39xkQY9) |
-| Keso    | Helper/Tester    | [discord.gg/godkuprojectreborn](https://discord.gg/godkuprojectreborn) |
+## Important notices
+> [!IMPORTANT]
+> This will take up to 2 weeks at least for the final product. Please be patient as I put alot of care into this revamped version.
 
 
-## this will take alot of time to finish.
+> [!WARNING]
+> **This will only work on windows/linux when first released.**
+
+
+![image](https://github.com/user-attachments/assets/194099e0-1977-4bca-a2e7-6fde6e8cadf2)
+
+
+```
+Made by Mindset. Please be patient like I said above this.
+I have a lot to work on for this project so it will take a lot of time.
+```
